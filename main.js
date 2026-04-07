@@ -1,4 +1,4 @@
-const grid = document.getElementById('charactersGrid');
+const grid = document.getElementById('characterGrid');
 
 // Fetch de 7 personajes para cumplir la regla de 5 en primera fila y 2 en segunda (layout alargado)
 async function fetchCharacters() {
